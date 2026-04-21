@@ -1,0 +1,8 @@
+name: nodura-social-ecosystem
+metadata:
+  template: nodura-social-ecosystem@0.1.0
+services:
+  web:
+    project: ./
+    language: js
+    host: staticwebapp
