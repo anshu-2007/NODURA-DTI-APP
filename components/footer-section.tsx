@@ -47,7 +47,7 @@ export function FooterSection() {
               >
                 <Zap className="w-5 h-5 text-white" />
               </motion.div>
-              <span className="text-xl font-bold tracking-[0.2em] text-white">VORTEX</span>
+              <span className="text-xl font-bold tracking-[0.2em] text-white">NODURA</span>
             </div>
             <p className="text-sm text-white/40 max-w-xs">
               The social ecosystem for initiative leaders.
